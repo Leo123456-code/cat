@@ -1,0 +1,37 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.stylefeng.guns.rest.common.util.FTPUtil",
+      "name": "ftp",
+      "type": "com.stylefeng.guns.rest.common.util.FTPUtil"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.stylefeng.guns.rest.common.util.FTPUtil",
+      "name": "ftp.ftp-client",
+      "type": "org.apache.commons.net.ftp.FTPClient"
+    },
+    {
+      "sourceType": "com.stylefeng.guns.rest.common.util.FTPUtil",
+      "name": "ftp.host-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.stylefeng.guns.rest.common.util.FTPUtil",
+      "name": "ftp.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.stylefeng.guns.rest.common.util.FTPUtil",
+      "name": "ftp.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.stylefeng.guns.rest.common.util.FTPUtil",
+      "name": "ftp.user-name",
+      "type": "java.lang.String"
+    }
+  ]
+}

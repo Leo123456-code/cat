@@ -1,0 +1,8 @@
+网关 80
+admin 8081
+rest 8083
+user 8085
+file 8086
+
+验证token
+http://localhost:8083/auth?userName=admin&password=admin
